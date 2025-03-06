@@ -1,4 +1,4 @@
 package pe.edu.idat.api_demo_git2.controller;
 
-public class PreguntaUnoController {
+public class PreguntaUnr {
 }
